@@ -472,7 +472,7 @@ for Discrete Denoising Models](https://arxiv.org/abs/2205.14987)
   - [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc)
   - [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://proceedings.mlr.press/v162/yu22h.html)
 ## Citing
-If you find this work useful, please cite our paper:
+  https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy
 ```
 @article{Yang2022DiffusionMA,
   title={Diffusion models: A comprehensive survey of methods and applications},
